@@ -1,1 +1,6 @@
-
+{
+  "name": "Doga Coin",
+  "symbol": "DOGA",
+  "description": "DOGA is the female counterpart to the iconic Dogecoin, celebrating the playful and nurturing spirit of female dogs. Built on the same decentralized blockchain technology, DOGA combines fun and community-driven charm with a unique focus on empowering diversity in the crypto world. It's not just a coin—it's a tribute to the strong and loyal energy of the DOGA spirit!",
+  "image": "https://github.com/svs133/Solana/blob/main/DOGA.png?raw=true"
+}
